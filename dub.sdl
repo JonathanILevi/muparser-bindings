@@ -1,0 +1,6 @@
+name "muparser-bindings"
+description "muparser - Fast Math Parser Library"
+authors "Bindings: Jonathan I Levi"
+copyright ""
+license "BSD-2-Clause"
+systemDependencies "libmuparser"
